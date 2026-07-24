@@ -115,11 +115,19 @@ From SCADA sensor firmware to React Native mobile apps to Next.js marketing site
 
 ## 📫 Connect
 
-- 🌐 [ortech.tech](https://ortech.tech) — Company
-- 🌐 [ortech.tech/en/blog](https://ortech.tech/en/blog) — Engineering blog
-- 🌐 [ortech.tech/en/knowledge](https://ortech.tech/en/knowledge) — Knowledge base (50+ articles)
-- 🌐 [ortech.tech/en/glossary](https://ortech.tech/en/glossary) — Technical glossary
-- 📧 [Contact](https://ortech.tech/en/contact)
+**Company**
+- 🌐 [ortech.tech](https://ortech.tech) — Company Website
+- 🌐 [ortech.tech/en/blog](https://ortech.tech/en/blog) — Engineering Blog
+- 🌐 [ortech.tech/en/knowledge](https://ortech.tech/en/knowledge) — Knowledge Base (50+ articles)
+- 🌐 [ortech.tech/en/glossary](https://ortech.tech/en/glossary) — Technical Glossary
+- 📧 [info@ortech.tech](mailto:info@ortech.tech)
+
+**Social Media**
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Cms6ZqVop/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ortechsolution)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ortech-solutions)
+- [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ortechsolution)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/967771131894)
 
 ---
 
