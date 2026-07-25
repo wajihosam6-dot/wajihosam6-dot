@@ -37,7 +37,7 @@ I architect and deliver **full-stack software solutions** for real businesses:
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[ORTECH Website](https://github.com/wajihosam6-dot/my-company-or-tech)** | Next.js 16, Tailwind, next-intl | 369-page bilingual SSG site with full SEO/GEO/AEO optimization, Schema.org Knowledge Graph, and AI discovery layer |
+| **[ORTECH Website](https://ortech.tech)** | Next.js 16, Tailwind, next-intl | 369-page bilingual SSG site with full SEO/GEO/AEO optimization, Schema.org Knowledge Graph, and AI discovery layer |
 | **[Green Cycle Platform](https://green-cycle.ortech.tech/)** | React Native, Node.js | Waste management platform with GPS tracking and route optimization |
 | **[Alkbous Water](https://alkbouswater.com/ar)** | React, Firebase | Water delivery management with real-time order tracking |
 
